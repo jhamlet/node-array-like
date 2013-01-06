@@ -1,7 +1,7 @@
 {   
     "name": "array-like",
-    "description": "",
-    "version": "0.0.1",
+    "description": "An inheritable Class that behaves like an Array",
+    "version": "0.1.0",
     "keywords": [
         "javascript",
         "js",
