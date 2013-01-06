@@ -1,0 +1,42 @@
+{   
+    "name": "array-like",
+    "description": "",
+    "version": "0.0.1",
+    "keywords": [
+        "javascript",
+        "js",
+        "array",
+        "list",
+        "collection",
+        "array-like"
+    ],
+    "main": "./node_modules/array-like/index.js",
+    "dependencies": {
+        "proteus":      "=0.1.x"
+    },
+    "devDependencies": {
+        "mocha":        "=1.7.x",
+        "should":       "=1.2.x",
+        "sake":         "=0.1.x",
+        "ejs":          "=0.8.x"
+    },
+    "bundledDependencies": [
+        "array-like"
+    ],
+    "scripts": {
+        "test": "mocha"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/jhamlet/node-array-like/raw/master/LICENSE"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/jhamlet/node-array-like.git"
+    },
+    "bugs": {
+        "url": "http://github.com/jhamlet/node-array-like/issues"
+    }
+}
